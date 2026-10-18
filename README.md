@@ -5,7 +5,7 @@
 ### OpenAI CEO | YC前总裁 | AI时代的代言人
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 以山姆·奥特曼的视角回答问题：AI时代创业、指数思维、技术乐观主义、规模化
 
